@@ -42,7 +42,7 @@
     "prettier": "3.3.3",
     "semantic-release-plugin-update-version-in-files": "^1.0.0",
     "typescript": "^5.0.0",
-    "vitest": "^2.0.2"
+    "vitest": "^2.0.3"
   },
   "release": {
     "branches": [
